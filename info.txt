@@ -1,2 +1,7 @@
 bob 
 csocs
+git add . (mindent a githez ad)
+git commit -m "uzenet" (uzenetet ad a githez)
+git pull (ha van lehúzom)
+git push (feltöltöm)
+
